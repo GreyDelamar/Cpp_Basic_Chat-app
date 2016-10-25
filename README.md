@@ -1,4 +1,5 @@
 What this app does? 
+
   It is just a simple chat-app to comunicate between two local terminals.
 
 How to setup:
